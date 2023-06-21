@@ -1,5 +1,5 @@
 # UpDownPlayer-2DGame-
-Game is about player go down and up and avoids barriers 
+Desktop Game is about player go down and up through arrows and avoids barriers 
 
 Game consist of 2 Levels different in difficulty
 # Contact
